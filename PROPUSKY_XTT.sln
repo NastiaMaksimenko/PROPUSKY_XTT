@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROPUSKY_XTT", "PROPUSKY_XTT.csproj", "{0A000C37-2E29-4A20-A2A6-E86347741149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A000C37-2E29-4A20-A2A6-E86347741149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A000C37-2E29-4A20-A2A6-E86347741149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A000C37-2E29-4A20-A2A6-E86347741149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A000C37-2E29-4A20-A2A6-E86347741149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3530AAC9-DDE9-4531-9C4D-A2619F2C21F2}
+	EndGlobalSection
+EndGlobal
